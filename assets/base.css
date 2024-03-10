@@ -1685,7 +1685,7 @@ details[open] > .share-button__fallback {
 .text-area,
 .select {
   display: flex;
-  position: relative;
+  position: absolute;
   width: 100%;
 }
 
